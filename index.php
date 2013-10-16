@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -8,7 +7,7 @@
     <meta name="author" content="">
     <link rel="shortcut icon" href="bs/assets/ico/favicon.png">
 
-    <title>Jaime de Greiff - Programador web</title>
+    <title>Jaime de Greiff - Programador web - Bogotá Colombia</title>
 
     <!-- Bootstrap core CSS -->
     <link href="bs/dist/css/bootstrap.css" rel="stylesheet">
