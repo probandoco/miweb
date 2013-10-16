@@ -70,7 +70,7 @@
       <div class="container">
         <h1>Jaime de Greiff</h1>
         <p>Programador web. Convierto ideas en proyectos web. Creo interfaces dinámicas para mostrar información</p>
-        <p><a class="btn btn-primary btn-lg">Learn more &raquo;</a></p>
+        <p><a class="btn btn-primary btn-lg">Leer más &raquo;</a></p>
       </div>
     </div>
 
